@@ -5,6 +5,12 @@ on:
     branches:
       - main
 
+
+# Add write permissions for contents
+permissions:
+  contents: write
+
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
