@@ -2,15 +2,10 @@ site_name: Openfisca Working Group
 site_url: https://benjello.github.io/openfisca-technical-committee
 
 
-extra:
-  social:
-    - icon: https://avatars.githubusercontent.com/u/1794404?s=400&u=4996ebc5bad636562d1c1cbaca2f30d93dbcfb82&v=4
-      link: https://github.com/openfisca
-      name: Openfisca
 
 theme:
   name: material
-  logo: https://avatars.githubusercontent.com/u/1794404?s=400&u=4996ebc5bad636562d1c1cbaca2f30d93dbcfb82&v=4
+  logo: https://avatars.githubusercontent.com/u/1794404
   features:
     - navigation.tabs
     - navigation.sections
