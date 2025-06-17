@@ -1,7 +1,7 @@
 [project]
 name = "openfisca-technical-committee"
 version = "0.1.0"
-description = "Openisca Technical Committee"
+description = "Openisca Working Group"
 dependencies = [
     "mkdocs>=1.6.1",
     "mkdocs-material>=9.6.14",

@@ -1,9 +1,9 @@
-# Welcome to Openfisca Technical Committee
+# Welcome to Openfisca Working Group
 
 
-## Motivation for the Technical Committee
+## Motivation for the Working Group
 
-The Technical Committee is a space for technical contributors to meet, exchange and share their experiences, tools and products developed with Openfisca. It is a place to discuss the limitations of Openfisca, the problems encountered, and the improvements that could be made to the software.
+The Working Group is a space for technical contributors to meet, exchange and share their experiences, tools and products developed with Openfisca. It is a place to discuss the limitations of Openfisca, the problems encountered, and the improvements that could be made to the software.
 
 The aim of these meetings is to expose technical contributors working on openfisca to the work and thoughts of other members of the community, to showcase tools or products developed by members of the community, and to share feedback on developments made with openfisca with a view to improving it.
 
