@@ -1,7 +1,9 @@
 site_name: Openfisca Working Group
 site_url: https://benjello.github.io/openfisca-technical-committee
-
-
+repo_url: https://benjello.github.io/openfisca-technical-committee
+repo_name: benjello/openfisca-technical-committee
+site_description: |
+  OpenFisca Working Group is a collaborative space for the OpenFisca community to discuss technical matters, share knowledge, and improve the platform.
 
 theme:
   name: material
@@ -16,6 +18,10 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.edit
+    - content.action.view
+
+edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
