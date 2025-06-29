@@ -1,6 +1,5 @@
 # Welcome to Openfisca Working Group
 
-
 ## Motivation for the Working Group
 
 The Working Group is a space for technical contributors to meet, exchange and share their experiences, tools and products developed with Openfisca. It is a place to discuss the limitations of Openfisca, the problems encountered, and the improvements that could be made to the software.
@@ -17,15 +16,15 @@ Discovery of development tools or application already produced by members of the
 
 #### Non-exhaustive examples:
 
-- LexImpact application
+- [LexImpact application](https://socio-fiscal.leximpact.an.fr/?budget=true&test_case=66&test_case=67&parameters=irpp_economique)
 
-- Parameter editor ([TN](https://parameters.tn.tax-benefit.org/), [FR](https://parameters.fr.tax-benefit.org/))
+- Parameter editor ([FR](https://parameters.fr.tax-benefit.org/), [NC](https://parameters.nc.tax-benefit.org/),  [TN](https://parameters.tn.tax-benefit.org/))
+
+- [Parameter validator](https://control-center.tax-benefit.org/)
+
+- [`openfisca-survey-manager`](https://github.com/openfisca/openfisca-survey-manager) to manage survey data or administrative data
 
 - Pooling of existing tools and scaling up of these tools to the community level to make them development tools or applications shared by the community.
-
-- Parameter validator](https://control-center.tax-benefit.org/)
-
-- `openfisca-survey-manager` to manage survey data or administrative data
 
 ### Presentation of limitations and problems encountered, desirable or planned improvements
 

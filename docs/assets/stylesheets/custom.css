@@ -1,0 +1,29 @@
+:root {
+  --md-primary-fg-color:       purple;
+  --md-primary-fg-color--dark: purple;
+  /* --md-accent-fg-color:        #00e0b6;  Green-turquoise accent */
+  --md-default-bg-color:       grey;  /* Dark background */
+  --md-default-fg-color:       #e0e0e0;  /* Light text */
+  --md-code-bg-color:          grey;  /* Code block background */
+  --md-text-color:             #e0e0e0;  /* Light text color */
+}
+
+
+/* Link color: dark purple */
+a {
+  color: purple;           /* Dark Purple */
+  text-decoration: none;    /* Optional: remove underline */
+}
+
+/* Link hover/focus color: brighter red */
+a:hover,
+a:focus {
+  color: #FF4500;           /* Orange Red */
+  text-decoration: underline; /* Optional: underline on hover */
+  cursor: pointer;
+}
+
+/* Optional: visited link color */
+a:visited {
+  color: rgb(214, 110, 214);           /* Even darker red */
+}

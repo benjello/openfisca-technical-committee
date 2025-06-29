@@ -21,10 +21,21 @@ theme:
     - content.action.edit
     - content.action.view
 
+  palette:
+    scheme: dark  # or "dark"
+    primary: deep_purple
+    accent: grey
+
+extra_css:
+  - assets/stylesheets/custom.css
+
 edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
+  - Meetings:
+      - Meetings: meetings/meetings.md
+      - Meeting Videos: meeting/videos.md
   - About: about.md
 
 markdown_extensions:
