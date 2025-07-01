@@ -225,7 +225,7 @@ wheels = [
 ]
 
 [[package]]
-name = "openfisca-technical-committee"
+name = "openfisca-working-group"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
